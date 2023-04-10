@@ -1,0 +1,21 @@
+ul, li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.stopwatch {
+  height: 100vh;
+  background-color: #502990;
+}
+
+.container {
+  width: 800px;
+  min-height: 600px;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 0 35px 2px rgb(45, 29, 70);
+}
